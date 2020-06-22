@@ -10,17 +10,17 @@ Config.title = "";
 /**
  * Enable map text in the top left corner of the screen?
  */
-Config.enableMap = true;
+Config.enableMap = false;
 
 /**
  * Enable steamId text in the top right corner of the screen?
  */
-Config.enableSteamID = true;
+Config.enableSteamID = false;
 
 /**
  * Enable announcements?
  */
-Config.enableAnnouncements = true;
+Config.enableAnnouncements = false;
 
 /**
  * What messages do you want to show up?
