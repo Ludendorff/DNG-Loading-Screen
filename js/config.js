@@ -20,15 +20,15 @@ Config.enableSteamID = false;
 /**
  * Enable announcements?
  */
-Config.enableAnnouncements = false;
+Config.enableAnnouncements = true;
 
 /**
  * What messages do you want to show up?
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
-  "This loadingscreen is made by Exsite"
+  "Remember To Read The Rules",
+  "Welcome To DNG"
 ];
 
 /**
